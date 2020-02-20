@@ -1,3 +1,7 @@
 Name: Ironhacker 
 Age: 25
+<<<<<<< HEAD
 Favorite Color: Yellow
+=======
+Favorite Color: blackcortrocada para teste git push
+>>>>>>> 18b8276ab1fc521ecb9ce04c30f0345a35f264fd
